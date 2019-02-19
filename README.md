@@ -11,6 +11,7 @@
 - [x] cetak data dan memasukan (random.uniform kurang dari 0.5)
 
 - [x] jika selesai RUN/jalankan programnya.
+
 hasilnya
 ![hasilnya](https://github.com/NurainiSeptiana/labpy3/blob/master/hasillatihan1.png)
 # **Latihan 2**
