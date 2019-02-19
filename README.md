@@ -1,10 +1,9 @@
 # labpy03
 
 # **Latihan 1**
-penjelasan algoritma
 
 ![hasilnya](https://github.com/NurainiSeptiana/labpy3/blob/master/latihann1.png)
-
+**penjelasan algoritma**
 - [x] masukan nilai N =5
 
 - [x] gunakan for range (untuk mengulang data dari 1-5)
