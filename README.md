@@ -3,6 +3,8 @@
 # **Latihan 1**
 penjelasan algoritma
 
+![hasilnya](https://github.com/NurainiSeptiana/labpy3/blob/master/latihann1.png)
+
 - [x] masukan nilai N =5
 
 - [x] gunakan for range (untuk mengulang data dari 1-5)
@@ -10,9 +12,12 @@ penjelasan algoritma
 - [x] cetak data dan memasukan (random.uniform kurang dari 0.5)
 
 - [x] jika selesai RUN/jalankan programnya.
-
-![hasilnya](https://github.com/NurainiSeptiana/labpy3/blob/master/latihann1.png)
+hasilnya
+![hasilnya](https://github.com/NurainiSeptiana/labpy3/blob/master/hasillatihan1.png)
 # **Latihan 2**
+
+![hasilnya](https://github.com/NurainiSeptiana/labpy3/blob/master/latihann2.png)
+
 **penjelasan algoritma**
 - [x] masukan max=0
 
@@ -22,9 +27,11 @@ penjelasan algoritma
 
 - [x] selanjutnya,gunakan if (untuk mencari nilai max = bilangan terbesar,lalu run/jalankan programnya).
 
-![hasilnya](https://github.com/NurainiSeptiana/labpy3/blob/master/latihann2.png)
+hasilnya
+![hasilnya](https://github.com/NurainiSeptiana/labpy3/blob/master/hasillatihan2.png)
 
 # **Program 1**
+![hasilnya](https://github.com/NurainiSeptiana/labpy3/blob/master/codinglatihan3.png)
 **penjelasan algoritma**
 - [x] masukkan nilai a
 
@@ -46,5 +53,5 @@ cetak (x) dan (e)
 
 - [x] cetak total
 
-
+hasilnya
 ![hasilnya](https://github.com/NurainiSeptiana/labpy3/blob/master/latihann3.png)
